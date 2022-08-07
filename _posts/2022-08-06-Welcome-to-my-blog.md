@@ -5,7 +5,7 @@ date:   2022-06-18 09:12:31 -0400
 categories: jekyll update
 ---
 
-```yaml
+~~~yaml
 - name: Test for RHEL8 Supported EE
   hosts: workstation
   gather_facts: no
@@ -43,4 +43,4 @@ categories: jekyll update
       until: '"early" in container_name_string'
       retries: 5
       delay: 2
-```
+~~~

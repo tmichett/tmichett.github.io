@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Test Blog Post"
 date:   2022-06-18 09:12:31 -0400
 categories: jekyll update

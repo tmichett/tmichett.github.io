@@ -7,6 +7,7 @@ categories: Ansible
 
 This is a test of YAML inline code with the "Default" layout!!!
 
+Here is some test content above the playbook.
 
 {% raw %}
 ```yaml
@@ -45,3 +46,5 @@ This is a test of YAML inline code with the "Default" layout!!!
 ....
 ```
 {% endraw %}
+
+Here is some test content below the playbook.

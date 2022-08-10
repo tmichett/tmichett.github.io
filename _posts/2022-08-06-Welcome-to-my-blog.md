@@ -1,8 +1,7 @@
 ---
-layout: default
 title:  "Test Blog Post"
 date:   2022-06-18 09:12:31 -0400
-categories: jekyll update
+categories: Ansible
 ---
 
 This is a test of YAML inline code with the "Default" layout!!!
